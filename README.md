@@ -50,5 +50,3 @@ Here are technologies i'm using:
 ![](https://img.shields.io/badge/Git-D7593D)
 ![](https://img.shields.io/badge/GitHub_Actions-4078c0)
 ![](https://img.shields.io/badge/Swagger-73942B)
-
-![](https://komarev.com/ghpvc/?username=cianoid)
